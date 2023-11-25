@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="level(1css).css">
+    <title>Your Landing Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Your Landing Page</h1>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Welcome to our Website</h2>
+            <p>This is a simple and impressive landing page.</p>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <h3>Feature 1</h3>
+                <p>Description of Feature 1.</p>
+            </div>
+            <div class="feature">
+                <h3>Feature 2</h3>
+                <p>Description of Feature 2.</p>
+            </div>
+            <!-- Add more features as needed -->
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Company</p>
+    </footer>
+
+</body>
+</html>
